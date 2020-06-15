@@ -1,6 +1,6 @@
 # time-entry
 # this is done with easytimer.js
-# so kindly install easytimer.js and lodash and bootstraptoggle to run this application.
+# so kindly install easytimer.js and lodash  to run this application.
 # first type npm install to install all the necessary node_modules.
 # npm install --save easytimer.js
 # npm install --save lodash
